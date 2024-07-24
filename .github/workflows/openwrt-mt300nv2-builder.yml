@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builder
+name: OpenWrt mt300nv2 passwall Builder
 
 on:
   repository_dispatch:
